@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScreenManager>
+    <TransitionImage>
+        <TexturePath>TransitionImage</TexturePath>
+        <Effects>FadeEffect</Effects>
+        <Scale>
+            <X>2.0</X>
+            <Y>2.0</Y>
+        </Scale>
+    </TransitionImage>
+</ScreenManager>

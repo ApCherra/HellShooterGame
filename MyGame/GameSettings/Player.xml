@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Player>
+    <Image>
+        <TexturePath>player</TexturePath>
+        <Scale>
+            <X>0.25</X>
+            <Y>0.25</Y>
+        </Scale>
+    </Image>
+    <Speed>100.0</Speed>
+</Player>

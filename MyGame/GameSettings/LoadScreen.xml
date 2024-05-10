@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LoadScreen>
+    <Image>
+        <TexturePath>LoadImage</TexturePath>
+        <Scale>
+            <X>0.45</X>
+            <Y>0.4</Y>
+        </Scale>
+    </Image>
+</LoadScreen>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveManager>
+    <Wave>
+        <Peasant></Peasant>
+        <Peasant></Peasant>
+        <Peasant></Peasant>
+        <Peasant></Peasant>
+        <Noble></Noble>
+        <Noble></Noble>
+    </Wave>
+    <Wave>
+        <Peasant></Peasant>
+        <Peasant></Peasant>
+        <Noble></Noble>
+        <Noble></Noble>
+        <Noble></Noble>
+        <Noble></Noble>
+    </Wave>
+    <Wave>
+        <Boss></Boss>
+        <Noble></Noble>
+        <Noble></Noble>
+    </Wave>
+</WaveManager>

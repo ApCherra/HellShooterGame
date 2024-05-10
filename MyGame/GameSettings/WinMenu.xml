@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+    <Axis>Y</Axis>
+    <Margin>50</Margin>
+    <Effects>FadeEffect</Effects>
+    
+    <Item>
+        <Image>
+            <Text> Congratulations! You Won! </Text>
+            <Scale>
+                <X>2.5</X>
+                <Y>2.0</Y>
+            </Scale>
+        </Image>
+    </Item>
+
+    <Item>
+        <LinkType>Screen</LinkType>
+        <LinkID>GameplayScreen</LinkID>
+        <Image>
+            <Text>Play again</Text>
+            <Scale>
+                <X>2.0</X>
+                <Y>1.7</Y>
+            </Scale>
+        </Image>
+    </Item>
+
+    <Item>
+        <LinkType>Screen</LinkType>
+        <LinkID>MenuScreen</LinkID>
+        <Image>
+            <Text>Main menu</Text>
+            <Scale>
+                <X>2.0</X>
+                <Y>1.7</Y>
+            </Scale>
+        </Image>
+    </Item>
+</Menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Heart>
+    <Image>
+        <TexturePath>heart</TexturePath>
+        <Scale>
+            <X>0.025</X>
+            <Y>0.025</Y>
+        </Scale>
+    </Image>
+    <Speed>0</Speed>
+</Heart>

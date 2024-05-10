@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+    <Axis>Y</Axis>
+    <Margin>20</Margin>
+    <Item>
+        <Image>
+            <Text>Press ESCAPE to return to the main menu</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press W to move up</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press S to move down</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press A to move left</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press D to move right</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press SPACE to shoot</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press B to shoot bombs</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press O to increase speed</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press L to decrease speed</Text>
+        </Image>
+    </Item>
+    <Item>
+        <Image>
+            <Text>Press C to turn on cheats</Text>
+        </Image>
+    </Item>
+</Menu>

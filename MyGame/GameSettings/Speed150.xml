@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Speed150>
+    <Image>
+        <TexturePath>speed150</TexturePath>
+        <Scale>
+            <X>0.20</X>
+            <Y>0.20</Y>
+        </Scale>
+    </Image>
+    <Speed>0</Speed>
+</Speed150>

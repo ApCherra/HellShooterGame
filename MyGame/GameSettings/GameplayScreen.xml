@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameplayScreen>
+    <Image>
+        <TexturePath>BackgroundImage</TexturePath>
+        <Scale>
+            <X>0.5</X>
+            <Y>0.4</Y>
+        </Scale>
+    </Image>
+</GameplayScreen>
