@@ -32,7 +32,19 @@ Follow these steps to set up your environment:
 5. **Run the game**:
 
    ```bash
-   dotnet run --project MyGame 
+   dotnet run --project MyGame
+
+
+Screenshots of Game
+
+![Uploading Screenshot 2024-05-13 at 9.05.36 PM.png…]()
+
+<img width="1189" alt="Screenshot 2024-05-13 at 9 05 54 PM" src="https://github.com/ApCherra/HellShooterGame/assets/135000565/5ba0f679-37aa-467a-8417-83b7a54820bc">
+
+![Uploading Screenshot 2024-05-13 at 9.07.33 PM.png…]()
+
+
+
  
 
 
