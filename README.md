@@ -37,11 +37,12 @@ Follow these steps to set up your environment:
 
 Screenshots of Game
 
-![Uploading Screenshot 2024-05-13 at 9.05.36 PM.png…]()
+<img width="1189" alt="Screenshot 2024-05-13 at 9 09 13 PM" src="https://github.com/ApCherra/HellShooterGame/assets/135000565/08b06448-49cc-4e3f-9e34-c58dd1317fa4">
 
-<img width="1189" alt="Screenshot 2024-05-13 at 9 05 54 PM" src="https://github.com/ApCherra/HellShooterGame/assets/135000565/5ba0f679-37aa-467a-8417-83b7a54820bc">
+<img width="761" alt="Screenshot 2024-05-13 at 9 09 29 PM" src="https://github.com/ApCherra/HellShooterGame/assets/135000565/0e431cd8-a070-412a-8174-fd0eeaae0b8a">
 
-![Uploading Screenshot 2024-05-13 at 9.07.33 PM.png…]()
+<img width="1193" alt="Screenshot 2024-05-13 at 9 14 16 PM" src="https://github.com/ApCherra/HellShooterGame/assets/135000565/6604fda5-579b-4018-ad48-5a8f1c7736c0">
+
 
 
 
