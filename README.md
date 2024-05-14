@@ -5,28 +5,31 @@ Hell Shooter is a fast-paced arcade game where players battle hordes. With diver
 
 Before running the application, ensure you have MonoGame installed on your system. You can download MonoGame from the official website: https://monogame.net/
 
-After installing MonoGame, you can download, or perform git clone.
+After installing MonoGame, download the latest version of Dotnet if you haven't already. You can download Dotnet from the official website: https://dotnet.microsoft.com/en-us/download
 
 Follow these steps to set up your environment:
 
-1. **Install spaCy and its English language model**:
+1. **Download the game**:
 
    ```bash
-   python3 -m pip install spacy
-   python3 -m spacy download en_core_web_sm
+   Either download or perform git clone 
 
-2. **Install docx library**:
+2. **Build the game**:
 
    ```bash
-   python3 -m pip install python-docx
+   dotnet build MyGame
 
-3. **Install docx library**:
+3. **Run the game**:
+
+   ```bash
+   dotnet run --project MyGame 
+
+4. **Build Content**:
 
    ```bash
    Open Content folder and locate the Content.mgcb file. Right-click, and click on "Open in MGCB Editor". 
-<img width="320" alt="Screenshot 2024-05-13 at 8 26 34 PM" src="https://github.com/ApCherra/HellShooterGame/assets/135000565/129c5ec6-975d-4515-b0b7-dc0c31b4a622">
 
-4. **Install docx library**:
+5. **Build Content Pt.2**:
 
    ```bash
    In the MGCB Editor, click on "build", allowing all content to build properly in your environment. 
