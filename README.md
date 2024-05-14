@@ -12,24 +12,27 @@ Follow these steps to set up your environment:
 1. **Download the game**:
 
    ```bash
-   Either download or perform git clone 
+   Either download or perform git clone
+   
+2. **Open Content Folder**:
 
-2. **Build the game**:
+   ```bash
+   Open Content folder and locate the Content.mgcb file. Right-click, and click on "Open in MGCB Editor".
+   
+3. **Build Content**:
+
+   ```bash
+   In the MGCB Editor, click on "build", allowing all content to build properly in your environment. 
+
+4. **Build the game**:
 
    ```bash
    dotnet build MyGame
 
-3. **Run the game**:
+5. **Run the game**:
 
    ```bash
    dotnet run --project MyGame 
+ 
 
-4. **Build Content**:
 
-   ```bash
-   Open Content folder and locate the Content.mgcb file. Right-click, and click on "Open in MGCB Editor". 
-
-5. **Build Content Pt.2**:
-
-   ```bash
-   In the MGCB Editor, click on "build", allowing all content to build properly in your environment. 
